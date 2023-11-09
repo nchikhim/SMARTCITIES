@@ -13,7 +13,7 @@ const Notice = () => {
         resizeMode="cover"
         source={require("../assets/rectangle-13.png")}
       />
-      <Text style={styles.advertises}>Advertises</Text>
+      <Text style={styles.advertises}>Notice</Text>
       <Pressable
         style={[styles.arrowLeftCircle, styles.vector1Layout]}
         onPress={() => navigation.navigate("Menu")}
