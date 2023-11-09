@@ -46,7 +46,7 @@ const LoginPage = () => {
           resizeMode="cover"
           source={require("../assets/rectangle-183.png")}
         />
-        <Text style={styles.smartCommunity}>SMART Community</Text>
+        <Text style={styles.smartCommunity}>s}>SMART CITIES</Text>
       </View>
 
       <Modal animationType="fade" transparent visible={continueAsAVisible}>
